@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-*	Description: main function to print: Programming
 *
+*	Description: main prints string,
 *	Return: Always 0 (Success)
 */
 
