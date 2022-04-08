@@ -4,7 +4,7 @@
 
 /**
 *	main - determine if number is positive or negative
-*	Description: program will assign a random number to the variable n each time it is executed.
+*	Description: program will assign a random number to the variable.
 *	Return: 0 if success.
 */
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 
 
 	srand(time(0));
-	n=rand() - RAND_MAX / 2;
+	n = rand() - RAND_MAX / 2;
 	if (n == 0)
 		printf("%d is zero\n", n);
 	else if (n < 0)
@@ -22,4 +22,4 @@ int main(void)
 		printf("%d is positive\n", n);
 
 	return (0);
-}	
+}
