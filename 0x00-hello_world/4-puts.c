@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
-* main - Entry point
 *
-* Description: main function to print: Programming 
+*	Description: main function to print: Programming 
 *
-* Return: Always 0 (Success)
+*	Return: Always 0 (Success)
 */
+
 int main(void)
 
 {
