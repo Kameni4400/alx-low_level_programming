@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
-*
-*	Description: main function to print: Programming 
+*	Description: main function to print: Programming
 *
 *	Return: Always 0 (Success)
 */
