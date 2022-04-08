@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
-*
-*	Description: main prints string,
+*	Description: main prints out a string using puts,
 *	Return: Always 0 (Success)
 */
 
