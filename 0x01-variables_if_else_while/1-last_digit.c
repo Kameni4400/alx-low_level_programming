@@ -4,6 +4,7 @@
 
 /**
 *	main: print last digit,
+*	Description: print last digit,
 *	Return: 0 if success.
 */
 
