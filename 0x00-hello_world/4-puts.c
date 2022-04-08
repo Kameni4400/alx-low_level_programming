@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point
  *
- * Description: prints "Programming is like building a multilingual puzzle"
+ * Description: prints A C program that prints with put function "Programming is like building a multilingual puzzle"
  *
  * Return: Always 0 (Success) 
  */
