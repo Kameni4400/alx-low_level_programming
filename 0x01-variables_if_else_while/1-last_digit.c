@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
-*	main: print last digit,
-*	Description: print last digit,
+*	main - Entry point
+*	
 *	Return: 0 if success.
 */
 
