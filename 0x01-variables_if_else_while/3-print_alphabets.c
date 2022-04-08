@@ -14,4 +14,4 @@ int main(void)
 		putchar(bet);
 	putchar('\n');
 	return (0);
-}	
+}
