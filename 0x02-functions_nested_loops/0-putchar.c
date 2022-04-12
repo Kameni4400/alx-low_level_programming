@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
 *	main - print _putchar, followed by a new line,
@@ -10,7 +10,7 @@ int main(void)
 	char h[] = "putchar";
 	int m;
 
-	m= 0;
+	m = 0;
 
 	while (m <= 8)
 	{
