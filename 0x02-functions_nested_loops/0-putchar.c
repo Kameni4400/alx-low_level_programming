@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include <stdio.h>
 
 /**
 *	main - print _putchar, followed by a new line,
@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-	char h[] = "Holberton";
+	char h[] = "putchar";
 	int m;
 
 	m= 0;
