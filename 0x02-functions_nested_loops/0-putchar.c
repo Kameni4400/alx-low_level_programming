@@ -1,17 +1,21 @@
 #include "holberton.h"
 
 /**
-*	Description: main - print _putchar, followed by a new line,
+*	main - print _putchar, followed by a new line,
+*
 *	Return: 0 if success.
 */
 int main(void)
 {
-	char text[10] = "Holberton";
-	int i = 0;
+	char h[] = "Holberton";
+	int m;
 
-	for (i = 0; i < 9; i++)
+	m= 0;
+
+	while (m <= 8)
 	{
-		_putchar(text[i]);
+		_putchar(h[m]);
+		m++;
 	}
 	_putchar('\n');
 
